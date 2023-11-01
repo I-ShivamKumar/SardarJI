@@ -1,10 +1,8 @@
-
 import './App.css'
 import Temp from './components/Temp'
 import Corousel from './components/Corousel'
 
 function App() {
-
 
   return (
     <>
@@ -15,4 +13,3 @@ function App() {
 }
 
 export default App
-2
