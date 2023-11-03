@@ -1,7 +1,7 @@
 import reactLogo from '../assets/react.svg'
 import '../App.css'
 
-function Temp() {
+function Card() {
     return (
         <div className="card">
             <div className="card-image"><img src={reactLogo} alt="React Logo" /></div>
@@ -12,4 +12,4 @@ function Temp() {
     )
 }
 
-export default Temp
+export default Card
